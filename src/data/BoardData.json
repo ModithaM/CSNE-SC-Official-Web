@@ -1,4 +1,61 @@
 {
+  "2025": {
+    "TopPosition": [
+      {
+        "id": "0001",
+        "name": "Bhagya Premathilaka",
+        "position": "Secretary",
+        "image": "/static/committee/2025/Bhagya Premathilaka.Secretary.jpg",
+        "link": {}
+      },
+      {
+        "id": "0002",
+        "name": "Mohamed Ashik",
+        "position": "President",
+        "image": "/static/committee/2025/Mohamed Ashik.President.jpeg",
+        "link": {}
+      },
+      {
+        "id": "0003",
+        "name": "Rachitha Chandeepa",
+        "position": "Vice President",
+        "image": "/static/committee/2025/Rachitha Chandeepa.Vice President.jpg",
+        "link": {}
+      },
+      {
+        "id": "0004",
+        "name": "Dulith Jayasekara",
+        "position": "Assistant Secretary",
+        "image": "/static/committee/2025/Dulith Jayasekara.Asst Secretary.jpg",
+        "link": {}
+      },
+      {
+        "id": "0005",
+        "name": "Sandul Karunarathna",
+        "position": "Treasurer",
+        "image": "/static/committee/2025/Sandul Karunarathna.Treasurer.jpg",
+        "link": {}
+      },
+      {
+        "id": "0006",
+        "name": "Thinuka Muthukumarana",
+        "position": "Assistant Treasurer",
+        "image": "/static/committee/2025/Thinuka Muthukumarana.Asst treasurer.jpg",
+        "link": {
+          "instragram": "https://www.instagram.com/.thinuka_d._m.?igsh=MXM0ZHAzOHZlZzZ0aQ==",
+          "linkedId": "https://www.linkedin.com/in/thinuka-muthukumarana-06a31924a"
+        }
+      },
+      {
+        "id": "0007",
+        "name": "Vimeth Athukorala",
+        "position": "Editor",
+        "image": "/static/committee/2025/Vimeth Athukorala.Editor.jpg",
+        "link": {}
+      }
+    ],
+    "member": []
+  },
   "2024": {
     "TopPosition": [
       {

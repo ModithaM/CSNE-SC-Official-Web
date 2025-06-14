@@ -6,7 +6,7 @@ import BoardData from "@/data/BoardData";
 const Board = () => {
   const [ismore, setIsMore] = useState(true);
   const [dropdown, setDropdown] = useState(false);
-  const [year, setYear] = useState("2024");
+  const [year, setYear] = useState("2025");
 
   const Top3Position = BoardData[year].TopPosition.slice(0, 3);
 
@@ -61,7 +61,7 @@ const Board = () => {
           </button>
           {dropdown && (
             <ul className="dropdown-menu absolute w-full text-white ">
-              {["2024", "2023", "2022"].map((yr, index, array) => (
+              {["2025", "2024", "2023", "2022"].map((yr, index, array) => (
                 <li key={yr}>
                   <button
                     onClick={() => changeYear(yr)}
